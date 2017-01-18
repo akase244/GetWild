@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Get Wild",
+    "description": "Closing time has come.",
+    "version": "0.0.1",
+    "icons": {
+        "48": "getwild.png"
+    },
+    "background": {
+        "scripts": ["getwild.js"],
+        "persistent": true
+    }
+}
